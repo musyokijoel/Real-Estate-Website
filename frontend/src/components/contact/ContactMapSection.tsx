@@ -1,5 +1,5 @@
 import React from 'react';
-import mapLocationImage from '../../images/Map:Location.jpg';
+import mapLocationImage from '../../images/';
 
 const ContactMapSection: React.FC = () => {
   return (
